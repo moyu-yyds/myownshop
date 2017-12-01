@@ -4,7 +4,7 @@
 
 #### 项目名称:myownshop
 
-### 本项目的技术栈是 React+Webpack+redux+lodash+json-server
+### 本项目的技术栈是 React+Webpack+redux+react-thunk+lodash+json-server
 
 ### 项目运行方法
 进入项目文件夹，先npm install安装项目依赖环境
