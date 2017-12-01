@@ -1,6 +1,6 @@
 # myownshop
 
-#### Author:zll
+#### 作者:张莉莉
 
 #### 项目名称:myownshop
 
