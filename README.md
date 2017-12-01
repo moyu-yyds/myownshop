@@ -19,4 +19,6 @@ React+Webpack+redux+react+react-thunk+react-swiper+lodash+json-server
 3. 在详情页中可以看到商品的详细信息，点击加入购物车，点击几次加入购物车选择买几件该商品
 4. 在购物车页中可查看添加入购物车的商品，看到商品总数，每样商品价钱及总价。
 
+### 谢谢老师的认真教学和同学们的热心帮助
+
 
