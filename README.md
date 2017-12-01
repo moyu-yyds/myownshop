@@ -1,5 +1,9 @@
 # myownshop
 
+#### Author:zll
+
+#### 项目名称:myownshop
+
 ### 本项目的技术栈是 React+Webpack+redux+lodash+json-server
 
 ### 项目运行方法
