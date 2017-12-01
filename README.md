@@ -1,3 +1,3 @@
 # myownshop
 
-###React+Webpack+redux+lodash
+### React+Webpack+redux+lodash
